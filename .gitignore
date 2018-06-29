@@ -1,1 +1,5 @@
 .idea/
+hello_django/__pycache__/
+polls/__pycache__/
+polls/migrations/__pycache__/
+.gitignore__jb_old__
